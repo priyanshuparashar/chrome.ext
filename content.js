@@ -23,3 +23,7 @@ const header2 = document.getElementsByTagName("h2")
 for (let i = 0; i < header2.length; i++) {
   header2[i].innerText = "michael scron"
 }
+
+var a = 23;
+var b = 34;
+let sum = a + b;
